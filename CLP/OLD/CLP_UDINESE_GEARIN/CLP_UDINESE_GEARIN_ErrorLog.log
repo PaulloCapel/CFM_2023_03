@@ -1,0 +1,2 @@
+Class,Identifiers,Address,Type,Initial Value,Comment,ErrorMessage
+VAR,BTN_RESERVA_0,%MX5003.4,BOOL,,BOTAO RESERVA 0,Identifier name is duplicate
